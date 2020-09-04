@@ -21,8 +21,7 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="gallery" type="center" index=random %}
 
-  {% assign random = site.time | date: "%s%N" | modulo: site.case-study.size %}
+  <a class="twitter-timeline" data-width="400" data-height="600"  href="https://twitter.com/valery_las">Tweets by valery_las</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-  {% include feature_col.html id="case-study" type="right" index=random %}
 
 <div>
