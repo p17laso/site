@@ -18,4 +18,3 @@ gallery:
 {% include_relative bio-bernerslee.md %}
 
 {% include slides.html caption="Εικόνες για τη βιογραφία του Tim Berners Lee" %}
-
