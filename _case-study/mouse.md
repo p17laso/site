@@ -20,4 +20,4 @@ gallery:
 
 {% include extras/cs-mouse.md %}
 
-{% include gallery %}
+
