@@ -21,4 +21,3 @@ gallery:
 
 {% include extras/cs-www.md %}
 
-{% include gallery %}
