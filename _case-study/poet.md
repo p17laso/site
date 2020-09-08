@@ -18,4 +18,3 @@ gallery:
 
 {% include extras/cs-poet.md %}
 
-{% include gallery %}
