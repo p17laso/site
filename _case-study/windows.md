@@ -22,4 +22,3 @@ gallery:
 
 {% include extras/cs-windows.md %}
 
-{% include gallery %}
